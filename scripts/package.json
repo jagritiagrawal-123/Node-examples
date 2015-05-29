@@ -1,0 +1,11 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "A test package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "author": "me",
+  "license": "ISC"
+}
